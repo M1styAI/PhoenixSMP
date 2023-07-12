@@ -1,6 +1,7 @@
 # This is a log of all PhoenixSMP 2.0 patches
 
-**DO MAKE SURE TO ALLOCATE 4+ GIGABYTES OF RAM IN THE LAUNCHER, OTHERWISE THE GAME DOES NOT LOAD**
+### **DO MAKE SURE TO ALLOCATE 4+ GIGABYTES OF RAM IN THE LAUNCHER**
+### **_OTHERWISE THE GAME DOES NOT LOAD_**
 
 ## Useful links
    + Launcher we use: https://www.technicpack.net/
