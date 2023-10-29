@@ -5,7 +5,7 @@
 ## How to Install the PhoenixSMP Modpack and Join the Game:
 
 1. **Install Java 17 JDK:**
-   - Download the Java 17 JDK as an .msi file. Recommended source: [Eclipse Temurin by Adoptium](https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jdk#zulu](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jdk&version=17)).
+   - Download the Java 17 JDK as an .msi file. Recommended source: [Eclipse Temurin by Adoptium](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jdk&version=17).
    - Run the downloaded .msi file and follow the installation instructions to set up Java 17 JDK on your system.
 
 2. **Download Modrinth Launcher:**
