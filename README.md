@@ -15,7 +15,7 @@
 3. **Login to Your Modrinth and Microsoft Accounts:**
    - Open the Modrinth Launcher.
    - Log into your Modrinth account. If you don't have an account, create one.
-   - Additionally, log into your Microsoft account if prompted. This might be necessary for authentication purposes.
+   - Log into your Microsoft account, on which you own Minecraft Java Edition.
 
 4. **Search for PhoenixSMP Modpack:**
    - In the Modrinth Launcher, use the search bar to find "PhoenixSMP."
