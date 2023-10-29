@@ -32,3 +32,7 @@
    - Click on the provided Discord channel link to obtain the server address and other necessary information for joining the PhoenixSMP game.
 
 Now you have successfully installed Java 17 JDK, logged into your Modrinth and Microsoft accounts, installed the PhoenixSMP modpack, and obtained the server address. You are ready to join the game and start your adventure!
+
+
+
+_Please note that PhoenixSMP is still in alpha, and further testing and feedback from the community will be crucial to enhance stability, performance, and overall user experience. We appreciate your support and look forward to your valuable input._
