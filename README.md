@@ -1,11 +1,11 @@
 # Welcome to the PhoenixSMP patches archive
 
-### **PLEASE MAKE SURE TO ALLOCATE 4+ GIGABYTES OF RAM IN THE LAUNCHER**
+### **PLEASE MAKE SURE TO ALLOCATE MINIMUM OF 4 GIGABYTES OF RAM IN THE LAUNCHER (8 GYGABYTES RECOMMENDED)**
 
 ## How to Install the PhoenixSMP Modpack and Join the Game:
 
-1. **Install Java 17 JDK:**
-   - Download the Java 17 JDK as an .msi file. Recommended source: [Eclipse Temurin by Adoptium](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jdk&version=17).
+1. **Install x64 Java 17 JDK:**
+   - Download the x64 Java 17 JDK as an .msi file. Recommended source: [Eclipse Temurin by Adoptium](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jdk&version=17).
    - Run the downloaded .msi file and follow the installation instructions to set up Java 17 JDK on your system.
 
 2. **Download Modrinth Launcher:**
