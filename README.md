@@ -1,7 +1,7 @@
 # Welcome to the PhoenixSMP patches archive
 
 ### **PLEASE MAKE SURE TO ALLOCATE MINIMUM OF 4 GIGABYTES OF RAM IN THE LAUNCHER**
-***(8 GYGABYTES HIGHLY RECOMMENDED)***
+***(8 GIGABYTES HIGHLY RECOMMENDED)***
 
 ## How to Install the PhoenixSMP Modpack and Join the Game:
 
