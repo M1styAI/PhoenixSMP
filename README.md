@@ -5,9 +5,9 @@
 
 ## How to Install the PhoenixSMP Modpack and Join the Game:
 
-1. **Install x64 Java 17 JDK:**
-   - Download the x64 Java 17 JDK as an .msi file. Recommended source: [Eclipse Temurin by Adoptium](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jdk&version=17).
-   - Run the downloaded .msi file and follow the installation instructions to set up Java 17 JDK on your system.
+1. **Install x64 Java 21 JDK:**
+   - Download the x64 Java 21 JDK as an .msi file. Recommended source: [Eclipse Temurin by Adoptium](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jdk&version=21).
+   - Run the downloaded .msi file and follow the installation instructions to set up Java 21 JDK on your system.
 
 2. **Download Modrinth Launcher:**
    - Visit [Modrinth Launcher](https://modrinth.com/app) website.
@@ -29,10 +29,9 @@
 
 6. **Join the Game:**
    - After installing the modpack, you need the server address to join the game.
-   - Minecraft server address: [Discord channel](https://discord.com/channels/1085949232608985118/1127325642522894457/1128382645903040664)
-   - Click on the provided Discord channel link to obtain the server address and other necessary information for joining the PhoenixSMP game.
+   - Minecraft server address: [REDACTED]
 
-Now you have successfully installed Java 17 JDK, logged into your Modrinth and Microsoft accounts, installed the PhoenixSMP modpack, and obtained the server address. You are ready to join the game and start your adventure!
+Now you have successfully installed Java 21 JDK, logged into your Modrinth and Microsoft accounts, installed the PhoenixSMP modpack, and obtained the server address. You are ready to join the game and start your adventure!
 
 
 
